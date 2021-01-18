@@ -10,10 +10,10 @@ This project assignment lays the groundwork for future project assignments. In t
 
 ## 1. Form a group (20 points)
 
-* Each group will be comprised of 4 people. We will help you to form a group, just let me know. 
-* There could be a team with 3 or 5 people in a team during the semester.
+* Each group will be comprised of 4 people. We will help you form a group, just let me know. 
+* Though not encouraged, there could be a team with 3 or 5 people in a team during the semester under certain conditions.
     * E.g. There is a student who drops the class. The team will become 3 people. 
-    * E.g. There are two students in the same team and both drop the class. Then these two students will be assigned to two other teams.
+    * E.g. There are two students in the same team and both drop the class. Then the remaining two students will be assigned to two other teams.
     * ...
 
 * Deliverables: 
@@ -25,7 +25,7 @@ This project assignment lays the groundwork for future project assignments. In t
 Git has become the de-facto standard for source version control in the IT industry. Your group will use a git repository to house your project. Submissions for grading will consist of a URL for a git repository and commit hash.
 
 * Warm up
-As a warm-up for this section, browse to https://git-scm.com/book/en/v2 and read the following:
+As a warm-up for this section, browse through https://git-scm.com/book/en/v2 and read the following sections:
     * 1: Getting Started 
     * 2: Git Basics
     * 5.1 Distributed Git - Distributed Workflows (your project will use the Centralized Workflow)
@@ -38,7 +38,7 @@ Choose a group member as Github manager who will host your group's work in GitHu
     * Click `Use this template`
     * Project path should be `https://github.com/<your github account>`
     * Project name should be `cs4604-<groupname>`
-    * Visibility Level should be Private 
+    * Visibility Level should be *Private* 
     * Click on `Create repository from template`
     * Browse to `https://github.com/<your github account>/cs4604-<groupname>`
     * In the left hand menu select `Settings -> Manage access` 
