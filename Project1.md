@@ -83,6 +83,6 @@ The commit hash can be obtained by one of the following methods:
 * use the "git log" command at the command line
 * browse to your project in `github.com/<your github account>/<projectname>` and click on the repository's Commits.  You will see a list of commits along with the hash. 
 
-Create a project1.txt and include these two item and submit txt file via Canvas.
-1. `https://github.com/<your github account>/cs4604-<groupname>`
-2. commit hash. e.g. `5542903eb2e3a262a5ab32282997fde9fcb17c9e`
+Sumbit below two items via Canvas.
+1. Team GitHub URL: `https://github.com/<your github account>/cs4604-<groupname>`
+2. GitHub commit hash URL. e.g. `https://github.com/<your github account>/cs4604-<groupname>/tree/5542903eb2e3a262a5ab32282997fde9fcb17c9e`
