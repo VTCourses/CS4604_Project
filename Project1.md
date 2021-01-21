@@ -60,6 +60,7 @@ git push origin newupdate
 ```
 
 * Some tips:
+    * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
     * Occasionally you may have a merge conflict. Resolving the conflict will require communicating with your group members to make sure you are keeping the right code. See here for the mechanics of resolving the conflict: https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/
     * Commit early and often
     * If your local copy of the repository gets messed up, just delete it and re-clone. (Note that this will destroy any changes that have not been pushed to the central repository!)
