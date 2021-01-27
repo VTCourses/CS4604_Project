@@ -75,7 +75,7 @@ Using Markdown, edit the README.md in your project's repository. Make sure it co
     * Group Name
     * Name, pid, and GitHub account of all team members
 
-    For example:
+**For example:**
 
 Group: Superheros
 | Name | PID | GitHub account |
