@@ -75,6 +75,17 @@ Using Markdown, edit the README.md in your project's repository. Make sure it co
     * Group Name
     * Name, pid, and GitHub account of all team members
 
+    For example:
+
+Group: Superheros
+| Name | PID | GitHub account |
+| ---|--------|---------|
+| Superman | superman | superman |
+| Wolverine | wolverine | wolverine |
+| Batman | batman | batman |
+| Thor | thor | thor |
+
+
 Don't forget to commit and push your code!
 
 ## Submitting your work
