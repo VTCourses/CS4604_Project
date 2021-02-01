@@ -55,7 +55,6 @@ git checkout -b newupdate master
 <edit code>
 git add <files/dirs to be committed>
 git commit -m "some comment about commit"
-git pull
 git push origin newupdate
 ```
 
