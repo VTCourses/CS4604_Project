@@ -1,5 +1,11 @@
 # CS4604 - Teams 
 
+Please direct all questions concerning this project first to the TA.
+
+## Contacts:
+* Monjura Afrin Rumi (mrumi@vt.edu): FilmFanatic
+* Hongjie Chen (Jeffchan@vt.edu): TooManyGames and TravelLover
+
 ## FilmFanatic
 
 | # | Team | Project |
@@ -11,6 +17,7 @@
 | 5 | [cs4604-teamfive](https://github.com/zifanw99/cs4604-teamfive) | FilmFanatic |
 | 6 | [CS4604-WAAD](https://github.com/MARX1108/CS4604-WAAD) | FilmFanatic |
 
+
 ## TooManyGames
 
 | # | Team | Project |
@@ -20,7 +27,7 @@
 | 3 | [cs4604-based-databasers](https://github.com/manav-ray/cs4604-based-databasers) | TooManyGames |
 | 4 | [cs4604-DBHaxors](https://github.com/anthc98/cs4604-DBHaxors) | TooManyGames |
 | 5 | [cs4604-mongang](https://github.com/jamespark0823/cs4604-mongang) | TooManyGames |
-| 6 | [cs4604-ObjectOverloaders](https://github.com/mrutch/) | TooManyGames |
+| 6 | [cs4604-ObjectOverloaders](https://github.com/mrutch/cs4604-ObjectOverloaders) | TooManyGames |
 
 ## TravelLover
 
