@@ -1,6 +1,6 @@
 # Project Database 
 
-We will provide and set up a PostgreSQL (9.2.24) database for your team to use, please contact your project TA. You can chose your own [database]() other than PostgreSQL but you need to make sure that we can see your work. If you chose your own database, you need to provide a detail document about how to setup that database and import your data. 
+We will provide and set up a PostgreSQL (9.2.24) database for your team to use, please contact your project TA. You can chose your own [database](Database.md#database-list) other than PostgreSQL but you need to make sure that we can see your work. If you chose your own database, you need to provide a detail document about how to setup that database and import your data. 
 
 ## Important
 * Backup your data and write a script so your database can be restore quickly. Things happened!!! 
