@@ -120,7 +120,7 @@ Sumbit GitHub commit hash URL to `Project 2` in the Canvas.
 ## Bonus points
 You will grade other teams according to their presentations. E.g., If your team's project is `FilmFanatic`, then you will grade `TooManyGames` and `TravelLover` teams' presentations.
 
-Three teams with the highest score will receive a 10 bouns points for project assignment 2.
+Three teams with the highest score will receive a 10 bonus points for project assignment 2.
 
 ## Reference
 * [SQL Style Guide](https://www.sqlstyle.guide/#white-space)
