@@ -19,5 +19,5 @@
 
 # Grade
 * Project assignments will comprise 100 points in total. Up to eighty (80) points will be awarded if the submission meets all requirements and is fully functional. The remaining twenty (20) points will be awarded based on the creativity, innovation, complexity of the application, and complete documentation of the assignment. 
-* Project presentation will comprise 100 points in total. Up to eighty (100) points will be awarded based on the professional presentation. Three teams with the highest rating will receive a 10 bonus points, according to the ratings received from the students.
+* Project presentation will comprise 100 points in total. Up to 100 points will be awarded based on the professional presentation. Three teams with the highest rating will receive a 10 bonus points, according to the ratings received from the students.
 * Team Peer Evaluation: everyone in the team should contribute similar amount of work.
