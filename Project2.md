@@ -110,12 +110,10 @@ Note: See the demo project for a potential starting point: https://github.com/yi
 ## Submitting your work
 One (and only one) team member should submit for the team. The submission should contain the ssh URL for your team's git repository and the commit hash you wish to submit for grading.
 
-The commit hash can be obtained by one of the following methods:
-* use the "git log" command at the command line
-* browse to your project in `github.com/<your github account>/<projectname>` and click on the repository's Commits.  You will see a list of commits along with the hash. 
+Create a release for the project 2, see [How to create a GitHub release for a repository](github.md).
 
-Sumbit GitHub commit hash URL to `Project 2` in the Canvas.
-1. GitHub commit hash URL. e.g. `https://github.com/<your github account>/cs4604-<groupname>/tree/5542903eb2e3a262a5ab32282997fde9fcb17c9e`
+Sumbit GitHub release URL to `Project 2` in the Canvas.
+1. GitHub release URL. e.g. `https://github.com/<your github account>/cs4604-<groupname>/tree/<version-number>`.
 
 ## Bonus points
 You will grade other teams according to their presentations. E.g., If your team's project is `FilmFanatic`, then you will grade `TooManyGames` and `TravelLover` teams' presentations.
