@@ -100,25 +100,25 @@ Note: See the demo project for a potential starting point: https://github.com/yi
     * ...
 * Load sample data into the database.
 * Think some questions and write (simple) advanced SQL queries to answer the questions.
-* Prepare documentations:
+* Prepare documentation:
     * Application specifications (Q1)
     * Designing the database (Q2)
     * SQL statements and presentation slides (Q3)
-* Assemble all your works and put into your team project GitHub repository.
-* Present a 4 mintues presentation about your project.
+* Assemble all your works and put them into your team project GitHub repository.
+* Present a 4 minutes presentation about your project.
 
 ## Submitting your work
 One (and only one) team member should submit for the team. The submission should contain the ssh URL for your team's git repository and the commit hash you wish to submit for grading.
 
-Create a release for the project 2, see [How to create a GitHub release for a repository](github.md).
+Create a release for project 2, see [How to create a GitHub release for a repository](github.md).
 
-Sumbit GitHub release URL to `Project 2` in the Canvas.
+Submit GitHub release URL to `Project 2` in the Canvas.
 1. GitHub release URL. e.g. `https://github.com/<your github account>/cs4604-<groupname>/tree/<version-number>`.
 
 ## Bonus points
 You will grade other teams according to their presentations. E.g., If your team's project is `FilmFanatic`, then you will grade `TooManyGames` and `TravelLover` teams' presentations.
 
-Three teams with the highest score will receive a 10 bonus points for project assignment 2.
+Three teams with the highest score will receive 10 bonus points for project assignment 2.
 
 ## Reference
 * [SQL Style Guide](https://www.sqlstyle.guide/#white-space)
