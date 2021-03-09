@@ -13,7 +13,7 @@ Important: If you choose to use your own programming language and database. Your
 ## Deliverables:
 1. Every group should turn in a final project package, including application code, dataset, SQL files, a final project report, and presentation slides, etc.
 2. Every group should give an 8 minutes presentation with a demonstration of project Website in class.
-3. Self and Peer evaluation form. (We will release this form after project presentations)
+3. Self and Peer evaluation form. (We will release this form after project presentations. [Preview](STUDENT_PEER_EVALUATION_SHEET.pdf))
 
     Note: While grading your solutions, we will pay attention to the quality of your codes, SQL files, documentations e.g., whether they are correct and functional, software and database complexity, and the running time (performance).
 
